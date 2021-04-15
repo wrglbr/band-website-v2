@@ -1,0 +1,12 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "1.0.0-alpha.18",
+  "command": {
+    "publish": {
+      "allowBranch": "main",
+      "message": "chore(release): %s"
+    }
+  }
+}
