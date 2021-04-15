@@ -1,6 +1,6 @@
 {
   "apps": {
-    "name": "romelperez",
+    "name": "band",
     "script": "server.js",
     "max_memory_restart": "300M",
     "instances" : 0,
