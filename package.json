@@ -12,7 +12,10 @@
     "deploy": "pm2 startOrRestart deploy.json --env production"
   },
   "dependencies": {
+    "acorn": "^8.1.1",
+    "ajv": "^8.1.0",
     "arwes": "^1.0.0-alpha.5",
+    "babel-eslint": "^8.2.6",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-1": "^6.24.1",
