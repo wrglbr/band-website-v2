@@ -44,7 +44,7 @@ function Brand (props) {
         resources='/static/img/profile.jpg'
       />
       <h1><Words animate show={show}>
-        Romel Pérez
+        BAND Corporation
       </Words></h1>
     </Link>
   );
