@@ -6,14 +6,21 @@ import TextIcon from './TextIcon';
 import Link from './Link';
 
 const linksList = [{
-  name: 'Projects',
+  name: 'About',
   icon: 'apps',
-  href: '/projects'
+  href: '/about'
 }, {
-  name: 'Curriculum',
+  name: 'Members',
   icon: 'chip',
-  href: 'https://www.linkedin.com/in/romelperez',
-  target: '_blank'
+  href: '/members'
+}, {
+  name: 'Tools',
+  icon: 'chip',
+  href: '/tools'
+}, {
+  name: 'Join BAND',
+  icon: 'chip',
+  href: '/join'
 }];
 
 const styles = theme => ({
