@@ -4,9 +4,15 @@
 ## BASE
 ##
 
+node_modules
+jspm_packages
+bower_components
 logs
 pids
 lib-cov
+coverage
+nbproject
+.next
 
 *.log
 *.pid
@@ -14,13 +20,18 @@ lib-cov
 
 *~
 *#
+.grunt
 .lock-wscript
 .tmp
 .sass-cache
 .DS_STORE
 .netbeans
 .idea
+.npm
+.node_history
+.node_repl_history
 .vagrant
+.eslintcache
 
 Thumbs.db
 dump.rdb
@@ -31,4 +42,4 @@ package-lock.json
 ## PROJECT
 ##
 
-
+build
