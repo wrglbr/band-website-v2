@@ -1,2 +1,0 @@
-export const ARWES_CORE_FRAME_CLASSNAME = 'arwes-frame';
-export const ARWES_CORE_FRAME_BG_CLASSNAME = `${ARWES_CORE_FRAME_CLASSNAME}__bg`;
